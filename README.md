@@ -1,6 +1,6 @@
-# poly-market-maker
+# beragio-market-maker
 
-Market maker keeper for the Polymarket CLOB.
+Market maker keeper for the Beragio CLOB.
 
 ## NOTE
 
